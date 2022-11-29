@@ -1,0 +1,2 @@
+# mypubinfo
+pub info
